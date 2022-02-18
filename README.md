@@ -11,4 +11,9 @@
   * Kaggle: https://www.kaggle.com/kenjee/ken-jee-youtube-data
 
 ***
-## Plan of Attack
+## Tools to be Used: 
+
+* Python
+* Jupyter Notebook 
+* Machine Learning 
+* Tableau 
